@@ -1,13 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1648973018 "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.tex" "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.pdf" "solutions" 1648973020
+["pdflatex"] 1648975095 "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.tex" "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.pdf" "solutions" 1648975097
   "/etc/texmf/web2c/texmf.cnf" 1642670272 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1648970914 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1648970761 3304 6a543c07045572737981351171e0505e ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1648905178 3220 0e417eaf233b160335902e97259a6c77 ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1648970746 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/home/blackakr/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/lati1000.tfm" 1648971204 3528 defd551e32c4af414f9b54b8101bfa9b ""
-  "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.aux" 1648973020 255 eb30a6fccc6582c3a24054d5dd713762 ""
-  "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.tex" 1648973018 2794 cfcb626524fe45938db042efe5d7f75c ""
+  "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.aux" 1648975097 255 eb30a6fccc6582c3a24054d5dd713762 ""
+  "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.tex" 1648975094 3099 fa385a7391bc11434abd97d8985a00ca ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
@@ -38,11 +38,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1613593815 38841 799d1dd9682a55ce442e10c99777ecc1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1648903154 5160710 ecf427ae8fa19139d8691f526e47bb9b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1648903403 2570813 dee550e5ffba630f3ae1ea072513eb1e ""
-  "solutions.aux" 1648973020 255 eb30a6fccc6582c3a24054d5dd713762 "pdflatex"
-  "solutions.tex" 1648973018 2794 cfcb626524fe45938db042efe5d7f75c ""
+  "solutions.aux" 1648975097 255 eb30a6fccc6582c3a24054d5dd713762 "pdflatex"
+  "solutions.tex" 1648975094 3099 fa385a7391bc11434abd97d8985a00ca ""
   (generated)
+  "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.pdf"
   "solutions.log"
   "solutions.aux"
-  "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.pdf"
-  "solutions.pdf"
   "/home/blackakr/Documents/математика/теория решеток/Биркгоф/решения/solutions.log"
+  "solutions.pdf"
